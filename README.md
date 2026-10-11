@@ -2,8 +2,7 @@
 
 Aspiring functional member of society.
 
-![GitHub Stats](https://api.gitwidgets.dev/api?username=shuamanory&type=stats&theme=tokyonight&hide_border=true&hide_icons=true&border_radius=0&font_size=small)
-<!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuamanory&theme=discord_old_blurple&animation=rise)<!--
 **shuamanory/shuamanory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
