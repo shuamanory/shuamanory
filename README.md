@@ -2,6 +2,7 @@
 
 Aspiring functional member of society.
 
+![GitHub Stats](https://api.gitwidgets.dev/api?username=shuamanory&type=stats&theme=tokyonight&hide_border=true&hide_icons=true&border_radius=0&font_size=small)
 <!--
 **shuamanory/shuamanory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
