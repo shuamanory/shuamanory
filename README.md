@@ -1,4 +1,6 @@
-## Hi there 👋
+## Shua Manory
+
+Aspiring functional member of society.
 
 <!--
 **shuamanory/shuamanory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
